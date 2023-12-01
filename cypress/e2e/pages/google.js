@@ -7,4 +7,4 @@ class googleSearch{
     }
 }
 
-module.exports = new googleSearch()
+export default new googleSearch()
