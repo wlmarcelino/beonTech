@@ -28,12 +28,14 @@ Make sure you have the following installed:
 
 ## Running Cypress Tests
 
-To run Cypress tests, use the following command:
+To run Cypress tests, use the following commands:
+
+1. To run using the terminal only:
 
    ```bash
-   npm run cypress:open
+    npm run cypress:run
 
-or
+2. To run using cypress interface
 
    ```bash
-   npx cypress open
+    npx cypress open
