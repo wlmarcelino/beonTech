@@ -7,7 +7,7 @@ This repository contains end-to-end tests using Cypress for Beon Tech interview.
 Make sure you have the following installed:
 
 - Node.js: [Download and Install Node.js](https://nodejs.org/)
-- npm (Node Package Manager): This comes with Node.js installation.
+- npm (Node Package Manager)
 
 ## Setup
 
